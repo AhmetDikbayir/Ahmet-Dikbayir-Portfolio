@@ -10,4 +10,4 @@ I used MNIST Fashion Dataset in this project. Fashion-MNIST is a dataset of Zala
 
 I used Keras Sequential Model in this project. I used ReLU activation function, and 10 output layers. I tried my model with 10 iterations, so as a result of this iterations my model accuracy score was 0.91.
 
-After that I tried my model with 20 iterations and lastly my model accuracy score increased 0.93.
+After that I tried my model with 20 iterations and lastly my model accuracy score increased 0.93. 
