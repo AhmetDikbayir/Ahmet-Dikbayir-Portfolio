@@ -1,5 +1,5 @@
 # Ahmet-Dikbayir-Portfolio
-My portfolio
+My portfolio has too many different type of projects.
 # [Project 1: Brain Tumor Detection Convolutional-Neural-Network-with Functional-API](https://github.com/AhmetDikbayir/Convolutional-Neural-Network-with-Functional-API)
 
 * I used Brain Tumor Dataset where I downloaded from Kaggle. There were two different folder one of them tumor positive images and other one is tumor negative images. All dataset had 278 images half of them is true and others negative. 
